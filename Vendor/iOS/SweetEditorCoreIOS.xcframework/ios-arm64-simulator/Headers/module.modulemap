@@ -1,0 +1,4 @@
+module SweetEditorCore {
+  header "sweeteditor/c_api.h"
+  export *
+}

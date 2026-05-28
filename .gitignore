@@ -1,0 +1,14 @@
+.DS_Store
+
+.build/
+.swiftpm/
+.swiftpm-cache/
+.swift-module-cache/
+
+Demo/
+
+DerivedData/
+Packages/
+
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
