@@ -5,10 +5,11 @@
 .swiftpm-cache/
 .swift-module-cache/
 
-Demo/
-
+!Demo/
+build/
 DerivedData/
 Packages/
 
-*.xcodeproj/xcuserdata/
-*.xcworkspace/xcuserdata/
+**/*.xcodeproj/xcuserdata/
+**/*.xcworkspace/xcuserdata/
+*.xcuserstate
